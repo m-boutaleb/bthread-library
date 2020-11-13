@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\SchedulerTest.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\SchedulerTest.dir/objects.a @CMakeFiles\SchedulerTest.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\SchedulerTest.dir/objects.a -Wl,--no-whole-archive  -o SchedulerTest.exe -Wl,--out-implib,libSchedulerTest.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\SchedulerTest.dir\linklibs.rsp

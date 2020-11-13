@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/MohamedBoutaleb/Documents/MEGA/SUPSI/SEMESTRE_5_6/SEMESTRE_5/SISTEMI_OPERATIVI/ESERCIZI/Esercizio0/bthread.c
+stdint.h
+-
+bthread_private.h
+C:/Users/MohamedBoutaleb/Documents/MEGA/SUPSI/SEMESTRE_5_6/SEMESTRE_5/SISTEMI_OPERATIVI/ESERCIZI/Esercizio0/bthread_private.h
+
+C:/Users/MohamedBoutaleb/Documents/MEGA/SUPSI/SEMESTRE_5_6/SEMESTRE_5/SISTEMI_OPERATIVI/ESERCIZI/Esercizio0/bthread.h
+
+C:/Users/MohamedBoutaleb/Documents/MEGA/SUPSI/SEMESTRE_5_6/SEMESTRE_5/SISTEMI_OPERATIVI/ESERCIZI/Esercizio0/bthread_private.h
+setjmp.h
+-
+bthread.h
+C:/Users/MohamedBoutaleb/Documents/MEGA/SUPSI/SEMESTRE_5_6/SEMESTRE_5/SISTEMI_OPERATIVI/ESERCIZI/Esercizio0/bthread.h
+tqueue.h
+C:/Users/MohamedBoutaleb/Documents/MEGA/SUPSI/SEMESTRE_5_6/SEMESTRE_5/SISTEMI_OPERATIVI/ESERCIZI/Esercizio0/tqueue.h
+
+C:/Users/MohamedBoutaleb/Documents/MEGA/SUPSI/SEMESTRE_5_6/SEMESTRE_5/SISTEMI_OPERATIVI/ESERCIZI/Esercizio0/tqueue.h
+malloc.h
+-
+

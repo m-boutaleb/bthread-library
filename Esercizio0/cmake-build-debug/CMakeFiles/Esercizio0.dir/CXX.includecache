@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/MohamedBoutaleb/Documents/MEGA/SUPSI/SEMESTRE_5_6/SEMESTRE_5/SISTEMI_OPERATIVI/ESERCIZI/Esercizio0/main.cpp
+setjmp.h
+-
+stdio.h
+-
+
